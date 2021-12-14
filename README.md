@@ -12,4 +12,4 @@ This repo was created to refactor the Horiseon's website to meet accessability s
 *CSS
 
 ## Live Website
-[Click here to goto the live website](https://jimenezraul.github.io/Refactor-Horiseon-Project/)
+[Click here to go to the live website](https://jimenezraul.github.io/Refactor-Horiseon-Project/)
