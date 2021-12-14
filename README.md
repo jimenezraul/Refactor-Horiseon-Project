@@ -14,9 +14,9 @@ This project is a refactor of the Horiseon Website. The goal is to make the webs
 - Title was changed to be more descriptive.
 
 ## Built With
-*VSCode
-*HTML
-*CSS
+- VSCode
+- HTML
+- CSS
 
 ## Live Website
 [Click here to go to the live website](https://jimenezraul.github.io/Refactor-Horiseon-Project/)
