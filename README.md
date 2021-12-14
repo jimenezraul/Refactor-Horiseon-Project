@@ -7,6 +7,7 @@ This repo was created to refactor the Horiseon's website to meet accessability s
 ![Screenshot of Horison Website](https://github.com/jimenezraul/Refactor-Horiseon-Project/blob/main/assets/images/Mock-Up.png)
 
 ## Built With
+*VSCode
 *HTML
 *CSS
 
